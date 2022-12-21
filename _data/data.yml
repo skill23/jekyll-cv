@@ -4,7 +4,7 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
+  email: pavlo@khurchak.com
   github: johndoe
   linkedin: johndoe
   phone: 
@@ -13,8 +13,8 @@ contact:
 
 languages:
   - idiom: English
+  - idiom: Ukranian
   - idiom: Russian
-  - idiom: French
 
 education:
   - degree: MSc in Informatics
